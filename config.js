@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
+  ['3546532133', 'MC', true],
   ['5491168352204']
 ] //Numeros de owner 
 
@@ -24,7 +24,7 @@ global.packname = 'Senna┃ᴮᴼᵀ'
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = 'Nilux'
 global.fgig = 'https://www.instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
